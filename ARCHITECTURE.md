@@ -375,3 +375,4 @@ and the pipeline is unchanged.
 - **Generation count is heuristic.** Peak detection in the depth histogram
   depends on `gl_gen_min_count` and `gl_gen_bin_um`. Very dense or sparse
   glomerular distributions may need manual threshold tuning.
+
