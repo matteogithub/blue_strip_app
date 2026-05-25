@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import matplotlib; print\\(matplotlib.__version__\\); from matplotlib.widgets import PolygonSelector; print\\('PolygonSelector OK'\\)\")",
+      "Bash(/Users/matteo/Documents/blue_strip_app/.venv/bin/python *)",
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(.venv/bin/python3 *)"
+    ]
+  }
+}
